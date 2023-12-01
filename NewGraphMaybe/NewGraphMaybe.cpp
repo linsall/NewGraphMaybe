@@ -83,11 +83,12 @@ Graph ReadFile(Graph graph) {
         }
         posX = 0;
         posY++;
-
     }
     readFile.close();
     return graph;
     //Add Neighbors
+
+
 }
 int main()
 {
