@@ -79,7 +79,6 @@ Graph ReadFile(Graph graph) {
                 break;
             }
             ++posX;
-
         }
         posX = 0;
         posY++;
