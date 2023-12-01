@@ -85,8 +85,6 @@ Graph ReadFile(Graph graph) {
         posY++;
 
     }
-
-
     readFile.close();
     return graph;
     //Add Neighbors
