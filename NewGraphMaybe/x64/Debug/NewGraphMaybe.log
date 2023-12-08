@@ -1,2 +1,4 @@
 ﻿  NewGraphMaybe.cpp
-  NewGraphMaybe.vcxproj -> C:\Users\linus.salomonsson\OneDrive - Change Maker Education\Desktop\idkCpp\NewGraphMaybe\x64\Debug\NewGraphMaybe.exe
+C:\Users\linus.salomonsson\OneDrive - Change Maker Education\Documents\GitHub\NewGraphMaybe\NewGraphMaybe\NewGraphMaybe.cpp(69): warning C4717: 'Graph::BreadthFirst': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\linus.salomonsson\OneDrive - Change Maker Education\Documents\GitHub\NewGraphMaybe\NewGraphMaybe\NewGraphMaybe.cpp(52): warning C4715: 'Graph::DepthFirst': not all control paths return a value
+  NewGraphMaybe.vcxproj -> C:\Users\linus.salomonsson\OneDrive - Change Maker Education\Documents\GitHub\NewGraphMaybe\NewGraphMaybe\x64\Debug\NewGraphMaybe.exe
